@@ -1,4 +1,4 @@
-code_generator
+Code generator
 ==============
 
-Random code generator, with GUI in Macedonian language, written in Java SE
+Simple random code generator, with GUI in Macedonian language, written in Java SE, July 2010.
